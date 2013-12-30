@@ -1,0 +1,23 @@
+{
+  "name": "Pitchfork",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcaruso19/Pitchfork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcaruso19/Pitchfork/issues"
+  },
+  "homepage": "https://github.com/dcaruso19/Pitchfork",
+  "dependencies": {
+    "request": "~2.30.0",
+    "cheerio": "~0.12.4"
+  }
+}
